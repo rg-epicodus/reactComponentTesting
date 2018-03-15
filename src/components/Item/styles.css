@@ -1,7 +1,7 @@
 .Item {
   padding-top: 10px;
   background-color: #4686a0;
-  color: rgba(255, 255, 255, 0.75);
+  color: black;
   background-attachment: fixed,	fixed, fixed;
   background-image: url(../../img/overlay2.png), url(../../img/overlay3.svg), linear-gradient(45deg, #fbf7ad 5%, #8baac1 30%, #e5b1e5);
   background-position: top left,	center center,	center center;

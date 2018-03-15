@@ -20,7 +20,6 @@ class ItemList extends Component {
           <Col xs={12} md={6} lg={4}>
             <Item name="Basil" cultivar="Purple Petra" species="Ocimum basilicum"  source="Botanical Interests" packDate="2014"  pic={basilPic} link="https://www.botanicalinterests.com/products/view/6093/Basil-Purple-Petra-Organic-Seeds" target="_blank"/>
           </Col>
-
         </Row>
       </Grid>
 
