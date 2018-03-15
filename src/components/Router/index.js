@@ -4,6 +4,8 @@ import {
   Switch
 } from 'react-router-dom';
 import Home from '../Home';
+import ItemList from '../ItemList';
+import './styles.css';
 
 class Router extends Component {
   render() {
@@ -11,6 +13,7 @@ class Router extends Component {
       <div className="Router">
       <Switch>
         <Route exact path="/" component={Home}/>
+        <Route path="/products" component={ItemList}/>
       </Switch>
       </div>
     );
