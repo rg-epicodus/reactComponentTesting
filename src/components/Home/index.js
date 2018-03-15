@@ -3,6 +3,7 @@ import './styles.css';
 
 import Second from '../Second';
 import Third from '../Third';
+import ItemList from '../ItemList';
 
 class Home extends Component {
   render() {
@@ -11,6 +12,7 @@ class Home extends Component {
         <h1>Here is my React App again!</h1>
         <Second />
         <Third />
+        <ItemList />
       </div>
     );
   }
