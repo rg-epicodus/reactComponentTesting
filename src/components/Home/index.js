@@ -8,7 +8,7 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <h1>Here is my React App!</h1>
+        <h1>Here is my React App again!</h1>
         <Second />
         <Third />
       </div>
