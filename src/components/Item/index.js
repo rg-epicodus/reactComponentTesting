@@ -7,7 +7,7 @@ import defaultPic from '../../img/default.jpg';
 class Item extends Component {
   render() {
     return (
-      <a href={this.props.link}>
+      <a href={this.props.link}  target="_blank">
         <div className="Item" style={this.props.styles}>
           <ItemPic pic={this.props.pic} name={this.props.name}/>
           <div className="TextBox">
