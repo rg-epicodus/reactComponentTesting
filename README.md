@@ -1,4 +1,4 @@
-# React Practice
+# React Component Test Area
 
 This is another practice project for React.
 
@@ -8,21 +8,14 @@ This is another practice project for React.
 * Clone the repo
 * navigate to  project root folder
 * run in terminal $ npm install
-* run in terminal $ bower install
-* run in terminal $ gulp build
-* Launch Index.html
-
-
-## Specifications
-
-| Behavior      | Example Input         | Example Output        |
-| ------------- | ------------- | ------------- |
-|   |  |  |
-
+* run in terminal $ npm start (or yarn start)
+* project should open in web browser
 
 
 ## Known Bugs
-* "Rich Garrick" <richmgarrick@gmail.com>
+
+* Send all correspondence to "Rich Garrick" <richmgarrick@gmail.com>
+
 
 ## Contributing
 
