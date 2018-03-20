@@ -1,0 +1,29 @@
+{ "seeds": [{
+    "name": "Carrot, Baby",
+    "cultivar": "Little Finger",
+    "species": "Daucus carota sativus",
+    "source": "Botanical Interests",
+    "packDate": "2016",
+    "pic": "carrotPic",
+    "link": "https://www.botanicalinterests.com/products/view/3105/Carrot-Baby-Little-Finger-Organic-HEIRLOOM-Seeds",
+    "id": "1"
+  }, {
+    "name": "Basil",
+    "cultivar": "Purple Petra",
+    "species": "Ocimum basilicum",
+    "source": "Botanical Interests",
+    "packDate": "2014",
+    "pic": "basilPic",
+    "link": "https://www.botanicalinterests.com/products/view/6093/Basil-Purple-Petra-Organic-Seeds",
+    "id": "2"
+  }, {
+    "name": "test name",
+    "cultivar": "test cultivar",
+    "species": "test species",
+    "source": "test source",
+    "packDate": "test date",
+    "pic": "",
+    "link": "test link",
+    "id": "3"
+  }]
+}

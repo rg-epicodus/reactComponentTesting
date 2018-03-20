@@ -12,7 +12,8 @@ class Home extends Component {
         <h1>Here is my React App again!</h1>
         <Second />
         <Third />
-        <ItemList />
+        <a href="/products"><h2>link to products</h2></a>
+        <a href="/seeds"><h2>link to seeds</h2></a>
       </div>
     );
   }
