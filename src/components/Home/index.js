@@ -3,7 +3,6 @@ import './styles.css';
 
 import Second from '../Second';
 import Third from '../Third';
-import ItemList from '../ItemList';
 
 class Home extends Component {
   render() {
