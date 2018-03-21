@@ -5,7 +5,7 @@ import {
 } from 'react-router-dom';
 import Home from '../Home';
 import ItemList from '../ItemList';
-import Seeds from '../Seeds';
+import SeedOutput from '../SeedOutput';
 import NotFound from '../NotFound';
 import './styles.css';
 
@@ -16,7 +16,7 @@ class Router extends Component {
       <Switch>
         <Route exact path="/" component={Home}/>
         <Route path="/products" component={ItemList}/>
-        <Route path="/seeds" component={Seeds}/>
+        <Route path="/seeds" component={SeedOutput}/>
         <Route component={NotFound} />
       </Switch>
       </div>
