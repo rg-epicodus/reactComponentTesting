@@ -80,19 +80,6 @@ removeSeed(seedId) {
   seedRef.remove();
 }
 
-  // callApi(){
-  //   // Github fetch library : https://github.com/github/fetch
-  //   // Call the API page
-  //   fetch('http://date.jsontest.com')
-  //   .then((result) => {
-  //     // Get the result
-  //     // If we want text, call result.text()
-  //     return result.json();
-  //   }).then((jsonResult) => {
-  //     console.log(jsonResult);
-  //   })
-  // }
-
   render() {
     return (
       <div className='app'>
@@ -137,15 +124,6 @@ removeSeed(seedId) {
           </section>
         </div>
       </div>
-      // <div>
-      //   <button onClick={() => this.callApi()}>
-      //     Click here to call API
-      //   </button>
-      //   <h2>{this.jsonResult}</h2>
-      // </div>
-        // <li>
-        //   {this.props.seed.name} {this.props.seed.phone}
-        // </li>
     );
   }
 }
